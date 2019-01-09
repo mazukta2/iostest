@@ -1,0 +1,31 @@
+{
+   "applinks": {
+     "apps": [],
+     "details": [
+       {
+         "appID": "F376M274MW.com.williamsinteractive.hotshot",
+         "paths": [
+           "/*"
+         ]
+       },
+       {
+         "appID": "97J3KSDPV6.com.williamsinteractive.hotshot",
+         "paths": [
+           "/*"
+         ]
+       },
+       {
+         "appID": "Z2CP978432.com.williamsinteractive.hotshot",
+         "paths": [
+           "/*"
+         ]
+       },
+       {
+         "appID": "D6TGFKW6GU.com.williamsinteractive.hotshot",
+         "paths": [
+           "/*"
+         ]
+       }
+     ]
+   }
+ }
